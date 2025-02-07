@@ -1,0 +1,12 @@
+! Title: maus-me uBlock filters – Annoyances
+
+! Ragebait, Karma Farmers, Spambots, and Bad Actors.
+! Tired of seeing 90% of my feeds overwhelmed by bullshit.
+
+! Reddit Filters
+! Enough Gaza Spam.
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/thebeaverton.com|babylonbee.com|Palestine|Palestinian|Gaza|Hamas|Israel|Israeli/i)
+
+! Enough Politics Bullshit in my /All Feed.
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Elon|Tesla|Musk|Hitler|Conservatives|Kanye|Heil/i)
+
