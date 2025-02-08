@@ -4,9 +4,17 @@
 ! Tired of seeing 90% of my feeds overwhelmed by bullshit.
 
 ! Reddit Filters
-! Enough Gaza Spam.
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/thebeaverton.com|babylonbee.com|Palestine|Palestinian|Gaza|Hamas|Israel|Israeli/i)
 
-! Enough Politics Bullshit in my /All Feed.
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Elon|Tesla|Musk|Hitler|Conservatives|Kanye|Heil|Nazi|Holocaust/i)
+! Ragebait Sources
 
+! Parody/Satire/Fake Sources
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/thebeaverton.com|babylonbee.com/i)
+
+! Enough about Gaza, Palestine, 
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Palestine|Palestinian|Gaza|Hamas|Israel|Israeli/i)
+
+! Enough Politics Bullshit in /r/all Feed.
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Conservatives/i)
+
+! Enough Elon Spam.
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk|Hitler|Heil|Nazi|Holocaust/i)
