@@ -14,10 +14,13 @@ sh.reddit.com,www.reddit.com##shreddit-post:has-text(/thebeaverton.com|babylonbe
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Palestine|Palestinian|Gaza|Hamas|Israel|Israeli/i)
 
 ! Enough Politics Bullshit in /r/all Feed.
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Conservatives/i)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Vance|Donald|Trump|Conservatives/i)
 
 ! Enough Elon Spam.
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk|DOGE/i)
 
 ! Enough Nazi Spam.
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Hitler|Heil|Nazi|Holocaust|Swastika(s)|Fasci(sm|st)/i)
+
+! Karma Farming Accounts (Specifically ones that are blatant trend chasing or cross-post spammers)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Two_Inches_Of_Fun/i)
