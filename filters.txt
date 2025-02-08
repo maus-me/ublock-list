@@ -17,4 +17,7 @@ sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Palestine|Palestinian|Gaza
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Conservatives/i)
 
 ! Enough Elon Spam.
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk|Hitler|Heil|Nazi|Holocaust/i)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk/i)
+
+! Enough Nazi Spam.
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Hitler|Heil|Nazi|Holocaust|Swastika(s)|Fasci(sm|st)/i)
