@@ -36,7 +36,7 @@ sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(MadeMeSmile|Awww|BeAmaz
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(goodnews|agedlikemilk|AnythingGoesNews|UnderReportedNews|MurderedByWords|law|fednews|FedEmployees|complaints)/i)
 
 ! Karma Farming, Fear mongering Subreddits (r/all)
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(SipsTea|whenthe)/i)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(SipsTea|whenthe|PublicFreakout)/i)
 
 ! Screenshots of cropped tweets, posts, or "news" pictures that tell a story without any source.
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(Amazing|GetNoted|ComedyHell|lol|idiocracy|byebyejob)/i)
