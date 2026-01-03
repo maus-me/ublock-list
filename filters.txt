@@ -20,7 +20,7 @@ sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk|DOGE|D.O.G
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Hitler|Heil|Nazi|Holocaust|Swastika(s)|(Nationali|Fasci)(sm|st)/i)
 
 ! Karma Farming Accounts (Specifically ones that are blatant trend chasing or cross-post spammers) ,[permalink*=""]
-sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="Two_Inches_Of_Fun"],[permalink*="screaming_librarian"],[permalink*="FitnessBlitz"],[permalink*="mvea"],[permalink*="regian24"],[permalink*="My_Memes_Will_Cure_U"],[permalink*="pepsi_next"],[permalink*="Master1718"],[permalink*="Lol33ta"],[permalink*="KevlarYarmulke"],[permalink*="kevinowdziej"],[permalink*="DaFunkJunkie"],[permalink*="icant-chooseone"],[permalink*="SlimJones123"],[permalink*="maxwellhill"],[permalink*="memezzer"],[permalink*="Sarial007"],[permalink*="ExpertAccident"],[permalink*="BelleAriel"], [permalink*="natansonh"])
+sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="Two_Inches_Of_Fun"],[permalink*="screaming_librarian"],[permalink*="FitnessBlitz"],[permalink*="mvea"],[permalink*="regian24"],[permalink*="My_Memes_Will_Cure_U"],[permalink*="pepsi_next"],[permalink*="Master1718"],[permalink*="Lol33ta"],[permalink*="KevlarYarmulke"],[permalink*="kevinowdziej"],[permalink*="DaFunkJunkie"],[permalink*="icant-chooseone"],[permalink*="SlimJones123"],[permalink*="maxwellhill"],[permalink*="memezzer"],[permalink*="Sarial007"],[permalink*="ExpertAccident"],[permalink*="BelleAriel"], [permalink*="natansonh"], [permalink*="Nixianx97"])
 
 ! Enough Politics Bullshit in my /All Feed
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Elon|Tesla|Musk|Hitler|Conservatives|Kanye/i)
