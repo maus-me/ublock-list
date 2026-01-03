@@ -1,5 +1,5 @@
 # ublock-list
-A ublock list for personal filtering of topics I am tired of seeing.   Current filters around karma farmers, and outrage bait. 
+A ublock list for personal filtering of topics I am tired of seeing on Reddit.   Current filters around karma farmers, and outrage bait. 
 
 ## Previews
 ### Reddit - /r/all
