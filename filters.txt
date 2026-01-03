@@ -13,9 +13,6 @@ sh.reddit.com,www.reddit.com##shreddit-post:has-text(/thebeaverton.com|babylonbe
 ! Enough about Gaza, Palestine, 
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Palestine|Palestinian|Gaza|Hamas|Israel|Israeli/i)
 
-! Enough Politics Bullshit in /r/all Feed.
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Vance|Donald|Trump|Conservatives|MAGA|M.A.G.A|Asmongold/i)
-
 ! Enough Elon Spam.
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Elon|Tesla|Musk|DOGE|D.O.G.E/i)
 
@@ -27,7 +24,7 @@ sh.reddit.com,www.reddit.com##shreddit-post:is([permalink*="Two_Inches_Of_Fun"],
 
 ! Enough Politics Bullshit in my /All Feed
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/Donald|Trump|Elon|Tesla|Musk|Hitler|Conservatives|Kanye/i)
-sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(50501|Conservative|PoliticalHumor|ProgressiveHQ)/i)
+sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(50501|Conservative|PoliticalHumor|ProgressiveHQ|MurderedByAOC)/i)
 
 ! Karma Farming Subreddits (r/all)
 sh.reddit.com,www.reddit.com##shreddit-post:has-text(/r/(MadeMeSmile|Awww|BeAmazed|AITAH|funnyvideos|nowthatsgoodstuff|AmITheJerk|AmItheAsshole)/i)
